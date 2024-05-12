@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finanzas_app/static/css/main.7719bea4.css",
+    "main.js": "/finanzas_app/static/js/main.092f2695.js",
+    "static/media/fondo.png": "/finanzas_app/static/media/fondo.8e0429ddff8bcca6e797.png",
+    "static/media/icon_edit.svg": "/finanzas_app/static/media/icon_edit.d80970afd73ef12f88ab.svg",
+    "index.html": "/finanzas_app/index.html",
+    "static/media/icon_delete.svg": "/finanzas_app/static/media/icon_delete.db0e00da9575d018b550.svg",
+    "main.7719bea4.css.map": "/finanzas_app/static/css/main.7719bea4.css.map",
+    "main.092f2695.js.map": "/finanzas_app/static/js/main.092f2695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7719bea4.css",
+    "static/js/main.092f2695.js"
+  ]
+}
